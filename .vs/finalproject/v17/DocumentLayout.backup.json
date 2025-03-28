@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\Project VS 22\\New folder\\finalproject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7274D40-A335-40D1-8142-2800D0DEBC81}|finalproject\\finalproject.csproj|D:\\Project VS 22\\New folder\\finalproject\\finalproject\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E7274D40-A335-40D1-8142-2800D0DEBC81}|finalproject\\finalproject.csproj|d:\\project vs 22\\new folder\\finalproject\\finalproject\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E7274D40-A335-40D1-8142-2800D0DEBC81}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -15,11 +15,11 @@
       "RelativeMoniker": "D:0:0:{E7274D40-A335-40D1-8142-2800D0DEBC81}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7274D40-A335-40D1-8142-2800D0DEBC81}|finalproject\\finalproject.csproj|d:\\project vs 22\\new folder\\finalproject\\finalproject\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E7274D40-A335-40D1-8142-2800D0DEBC81}|finalproject\\finalproject.csproj|D:\\Project VS 22\\New folder\\finalproject\\finalproject\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E7274D40-A335-40D1-8142-2800D0DEBC81}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7274D40-A335-40D1-8142-2800D0DEBC81}|finalproject\\finalproject.csproj|d:\\project vs 22\\new folder\\finalproject\\finalproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E7274D40-A335-40D1-8142-2800D0DEBC81}|finalproject\\finalproject.csproj|D:\\Project VS 22\\New folder\\finalproject\\finalproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E7274D40-A335-40D1-8142-2800D0DEBC81}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -41,8 +41,7 @@
               "ToolTip": "D:\\Project VS 22\\New folder\\finalproject\\finalproject\\Form1.cs [Design]",
               "RelativeToolTip": "finalproject\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T13:43:30.91Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-22T13:43:30.91Z"
             },
             {
               "$type": "Document",
@@ -65,8 +64,7 @@
               "ToolTip": "D:\\Project VS 22\\New folder\\finalproject\\finalproject\\TTkhachhang.cs [Design]",
               "RelativeToolTip": "finalproject\\TTkhachhang.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T14:20:16.104Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-22T14:20:16.104Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "ToolTip": "D:\\Project VS 22\\New folder\\finalproject\\finalproject\\sanpham.cs [Design]",
               "RelativeToolTip": "finalproject\\sanpham.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T14:33:09.006Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-22T14:33:09.006Z"
             },
             {
               "$type": "Document",
@@ -89,8 +86,7 @@
               "ToolTip": "D:\\Project VS 22\\New folder\\finalproject\\finalproject\\Form2.cs [Design]",
               "RelativeToolTip": "finalproject\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T14:56:00.845Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-27T14:56:00.845Z"
             }
           ]
         }
