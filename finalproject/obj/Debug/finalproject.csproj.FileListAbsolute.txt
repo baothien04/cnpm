@@ -12,3 +12,15 @@ D:\Project VS 22\New folder\finalproject\finalproject\obj\Debug\finalproject.csp
 D:\Project VS 22\New folder\finalproject\finalproject\obj\Debug\finalproject.csproj.CoreCompileInputs.cache
 D:\Project VS 22\New folder\finalproject\finalproject\obj\Debug\finalproject.exe
 D:\Project VS 22\New folder\finalproject\finalproject\obj\Debug\finalproject.pdb
+D:\cnpm\finalproject\obj\Debug\finalproject.csproj.AssemblyReference.cache
+D:\cnpm\finalproject\obj\Debug\finalproject.Form1.resources
+D:\cnpm\finalproject\obj\Debug\finalproject.Form2.resources
+D:\cnpm\finalproject\obj\Debug\finalproject.giohang.resources
+D:\cnpm\finalproject\obj\Debug\finalproject.Properties.Resources.resources
+D:\cnpm\finalproject\obj\Debug\finalproject.sanpham.resources
+D:\cnpm\finalproject\obj\Debug\finalproject.trangchu.resources
+D:\cnpm\finalproject\obj\Debug\finalproject.TTkhachhang.resources
+D:\cnpm\finalproject\obj\Debug\finalproject.csproj.GenerateResource.cache
+D:\cnpm\finalproject\obj\Debug\finalproject.csproj.CoreCompileInputs.cache
+D:\cnpm\finalproject\obj\Debug\finalproject.exe
+D:\cnpm\finalproject\obj\Debug\finalproject.pdb
